@@ -32,7 +32,7 @@
                      <nav class="menu">
                         <ul class="menu__list">
                            <li class="menu__list-item">
-                              <a class="menu__list-link" href="#services">Услуги</a>
+                              <a class="menu__list-link" href="#services">Тест замена </a>
                            </li>
                            <li class="menu__list-item">
                               <a class="menu__list-link" href="#dentists">Наши врачи</a>
